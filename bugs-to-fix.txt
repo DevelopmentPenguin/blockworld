@@ -1,0 +1,6 @@
+BW-TEST1-2023527 BUGS TO FIX:
+
+1. issue with lighting, when blocks are put on top of eachother, it creates a shadow, but its too dark.
+2. you can place a block where you are standing. when you do, problem with rendering. see more in inkedbugvideo.mp4
+3. you go crazy moving everywhere when you hold r.
+4. same rendering issue with placing block below, above, in front. see more at inkedbugvideo.mp4
